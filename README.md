@@ -4,7 +4,7 @@ A modern, responsive personal landing page built with **HTML, CSS, and JavaScrip
 It showcases my skills, services, pricing packages, and client testimonials – all in a sleek SaaS-style UI.
 
 ## 🔗 Live Preview
-*(After hosting on Netlify/Vercel, paste the link here)*
+(https://code-art-by-younas.github.io/code-art-site/)
 
 ## ✨ Features
 
